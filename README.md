@@ -3,7 +3,8 @@
 Esta app web te permite agendar Citas de pacientes, clientes, etc. Podras acceder a ellas en cualquier momento, tambien podras editarlas, borrarlas o crear nuevas.  
 Se utilizó Tailwind para darle estilos CSS.
 
-## Imágenes
+## Video
+https://user-images.githubusercontent.com/88584244/150425641-338f9a1e-3710-40c8-ba8c-1c6e2fc6fcf6.mp4
 
 ## Tecnologías
 
